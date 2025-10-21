@@ -61,8 +61,6 @@ phondle/
 └── fonts/
 └── arcade.ttf # Optional custom font
 
-yaml
-Copy code
 
 ---
 
@@ -78,6 +76,7 @@ Copy code
 # Clone this repo
 git clone https://github.com/yourusername/phondle.git
 cd phondle
+```
 
 # Set up dependencies
 go mod tidy
